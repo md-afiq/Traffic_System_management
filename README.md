@@ -15,6 +15,13 @@ The system works on **Google Colab** and can analyze video footage for autonomou
 
 ---
 
+### Traffic Flow Monitoring
+![Traffic Screenshot 1](val_results/Screenshot%202025-08-15%20002708.jpg)  
+*Traffic Detection Sample 1*
+
+![Traffic Screenshot 2](val_results/Screenshot%202025-08-15%20002725.jpg)  
+*Traffic Detection Sample 2*
+
 ## 🚗 Vehicle Detection
 
 Here are some sample detected frames from the model:
