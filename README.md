@@ -7,7 +7,7 @@ The system works on **Google Colab** and can analyze video footage for autonomou
 ---
 
 ## 🔹 Key Features
-- **Vehicle Counting**: Detects cars, trucks, motorcycles, and other vehicles in real-time.  
+- **Vehicle Counting**: Detects cars, trucks, motorcycles, and other vehicles in real-time..  
 - **Traffic Flow Analysis**: Measures traffic smoothness or congestion.  
 - **Traffic Jam Detection**: Flags areas where vehicles remain stationary for a prolonged time (e.g., 10 vehicles in one zone).  
 - **Real-Time Monitoring**: Works on video streams with annotated frames.  
