@@ -9,7 +9,7 @@ The system works on **Google Colab** and can analyze video footage for autonomou
 ## 🔹 Key Features
 - **Vehicle Counting**: Detects cars, trucks, motorcycles, and other vehicles in real-time..  
 - **Traffic Flow Analysis**: Measures traffic smoothness or congestion.  
-- **Traffic Jam Detection**: Flags areas where vehicles remain stationary for a prolonged time (e.g., 10 vehicles in one zone).  
+- **Traffic Jam Detection**: Flags areas where vehicles remain stationary for a prolonged time (e.g., 10 vehicles in one zone).  .
 - **Real-Time Monitoring**: Works on video streams with annotated frames.  
 - **YOLO Models**: Tested with YOLOv8 to YOLOv11 for accuracy and performance.
 
@@ -22,7 +22,7 @@ The system works on **Google Colab** and can analyze video footage for autonomou
 ![Traffic Screenshot 2](val_results/Screenshot%202025-08-15%20002725.jpg)  
 *Traffic Detection Sample 2*
 
-## 🚗 Vehicle Detection
+## 🚗 Vehicle Detection.
 
 Here are some sample detected frames from the model:
 
@@ -56,7 +56,7 @@ Here are the evaluation results and metrics from the Traffic Management System:
 
 ---
 
-## 🚀 How It Works
+## 🚀 How It Works.
 1. **Video Input:** Feed traffic footage into the model.  
 2. **Object Detection:** YOLO detects vehicles and pedestrians.  
 3. **Vehicle Counting:** Count moving and stationary vehicles in each zone.  
