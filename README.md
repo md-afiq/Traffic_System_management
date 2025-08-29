@@ -66,6 +66,6 @@ Here are the evaluation results and metrics from the Traffic Management System:
 ---
 
 ## 📄 Applications
-- Smart city traffic monitoring  .
-- Autonomous vehicle research  .
-- Traffic safety analysis.
+- Smart city traffic monitoring  
+- Autonomous vehicle research  
+- Traffic safety analysis
