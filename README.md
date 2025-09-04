@@ -1,4 +1,4 @@
-# Traffic Management System Using YOLO 
+# Traffic Management System Using YOLO ..
 
 This project implements a **Traffic Management System** using YOLO object detection models (v8–v11)
 It is designed to **monitor traffic flow**, count vehicles, detect congestion, and identify potential traffic jams in real-time. 
